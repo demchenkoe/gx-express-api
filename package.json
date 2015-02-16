@@ -1,0 +1,34 @@
+{
+  "name": "gx-express-api",
+  "version": "0.0.1",
+  "description": "This ExpressJS middleware helps for API development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/demchenkoe/gx-express-api.git"
+  },
+  "keywords": [
+    "gx",
+    "api",
+    "express",
+    "middleware"
+  ],
+  "author": {
+    "name": "Eugene Demchenko",
+    "email": "demchenkoev@gmail.com"
+  },
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/demchenkoe/gx-express-api/issues"
+  },
+  "dependencies": {
+    "lodash": "~3.2.0",
+    "gx-error-parser": "0.0.1"
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "gx-express-api@0.0.1",
+  "_from": "gx-express-api@"
+}
